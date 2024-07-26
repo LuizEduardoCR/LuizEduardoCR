@@ -33,4 +33,4 @@
 <p><img src="https://profile-counter.glitch.me/{LuizEduardoCR}/count.svg" /></p> 
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=120&section=footer"/>
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F28B0C&height=120&section=footer"/>
